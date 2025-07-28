@@ -23,4 +23,3 @@ It allows users to:
 2. Open in Android Studio
 3. Sync Gradle and run on emulator or device
 
-## Developed by Team D squared  (Devanshi, Divyam)
